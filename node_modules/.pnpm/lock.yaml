@@ -1,0 +1,23 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      test-node-package:
+        specifier: github:hannesriehl/test-node-package
+        version: https://codeload.github.com/hannesriehl/test-node-package/tar.gz/6aae3400aab5eeb3fa5283034053cac938569297
+
+packages:
+
+  test-node-package@https://codeload.github.com/hannesriehl/test-node-package/tar.gz/6aae3400aab5eeb3fa5283034053cac938569297:
+    resolution: {tarball: https://codeload.github.com/hannesriehl/test-node-package/tar.gz/6aae3400aab5eeb3fa5283034053cac938569297}
+    version: 1.0.0
+
+snapshots:
+
+  test-node-package@https://codeload.github.com/hannesriehl/test-node-package/tar.gz/6aae3400aab5eeb3fa5283034053cac938569297: {}

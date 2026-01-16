@@ -10,8 +10,5 @@
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.25.0",
-  "type": "module",
-  "dependencies": {
-    "test-node-package": "github:hannesriehl/test-node-package"
-  }
+  "type": "module"
 }
